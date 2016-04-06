@@ -12,6 +12,6 @@ $ lein run
 Copyright and license
 ----
 
-Copyright © 2014 Ruslan Sorokin.
+Copyright © 2016 Ruslan Sorokin.
 
 [License of Protege-3.5] (https://github.com/rururu/proframes/blob/master/LICENSE)
