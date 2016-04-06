@@ -1,7 +1,17 @@
 # proframes
 
-A Clojure app to ... well, that part is up to you.
+Protege-3.5 launcher
 
 ## Usage
 
-FIXME
+```
+$ cd <..>/proframes
+$ lein run
+```
+
+Copyright and license
+----
+
+Copyright © 2014 Ruslan Sorokin.
+
+[License of Protege-3.5] (https://github.com/rururu/proframes/LICENSE)
