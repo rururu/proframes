@@ -14,4 +14,4 @@ Copyright and license
 
 Copyright © 2014 Ruslan Sorokin.
 
-[License of Protege-3.5] (https://github.com/rururu/proframes/LICENSE)
+[License of Protege-3.5] (https://github.com/rururu/proframes/blob/master/LICENSE)
