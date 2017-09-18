@@ -9,6 +9,6 @@
                  [protege/JGoLayout "3.5.0"]
                  [protege/ClojureTab "1.5.0"]]
   :javac-options ["-target" "1.6" "-source" "1.6" "-Xlint:-options"]
-  :repositories {"local" ~(str (.toURI (java.io.File. "repo")))}
+  :repositories {"local" {:url ~(str (.toURI (java.io.File. "repo"))) :checksum :warn}}
   :aot [proframes.core]
   :main proframes.core)
